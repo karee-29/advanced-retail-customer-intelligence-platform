@@ -224,4 +224,4 @@ This project demonstrates the full path:
 The emphasis is on moving from **data to decisions**, not simply producing charts.
 
 ---
-**Portfolio status: FINAL / GITHUB READY**
+
