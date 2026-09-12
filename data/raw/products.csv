@@ -1,0 +1,221 @@
+product_id,product_name,category,subcategory,list_price_inr,gross_margin_rate,weight_kg,abc_class
+2001,UrbanPeak Smartphones 01,Electronics,Smartphones,1685,0.448,3.12,B
+2002,Aurelia Smartphones 02,Electronics,Smartphones,1083,0.358,2.53,B
+2003,Vertex Smartphones 03,Electronics,Smartphones,3056,0.574,2.23,C
+2004,Luma Smartphones 04,Electronics,Smartphones,2744,0.199,3.11,A
+2005,Nexora Smartphones 05,Electronics,Smartphones,1698,0.358,1.13,C
+2006,HomeCraft Smartphones 06,Electronics,Smartphones,1074,0.545,3.8,B
+2007,Stride Smartphones 07,Electronics,Smartphones,962,0.446,3.28,B
+2008,Nova Smartphones 08,Electronics,Smartphones,2309,0.274,3.17,B
+2009,UrbanPeak Smartphones 09,Electronics,Smartphones,367,0.456,3.13,A
+2010,Aurelia Smartphones 10,Electronics,Smartphones,2569,0.354,2.52,C
+2011,Vertex Smartphones 11,Electronics,Smartphones,599,0.337,3.58,A
+2012,Luma Audio 01,Electronics,Audio,1382,0.547,2.1,B
+2013,Nexora Audio 02,Electronics,Audio,1192,0.562,2.95,B
+2014,HomeCraft Audio 03,Electronics,Audio,3505,0.239,1.91,C
+2015,Stride Audio 04,Electronics,Audio,3964,0.213,1.88,B
+2016,Nova Audio 05,Electronics,Audio,2011,0.323,3.63,B
+2017,UrbanPeak Audio 06,Electronics,Audio,2343,0.568,3.1,C
+2018,Aurelia Audio 07,Electronics,Audio,1831,0.265,3.39,C
+2019,Vertex Audio 08,Electronics,Audio,1728,0.189,1.52,B
+2020,Luma Audio 09,Electronics,Audio,3460,0.341,2.92,B
+2021,Nexora Audio 10,Electronics,Audio,2097,0.255,1.31,B
+2022,HomeCraft Audio 11,Electronics,Audio,1577,0.235,3.95,A
+2023,Stride Wearables 01,Electronics,Wearables,705,0.595,1.35,C
+2024,Nova Wearables 02,Electronics,Wearables,2487,0.377,3.72,A
+2025,UrbanPeak Wearables 03,Electronics,Wearables,1073,0.202,2.78,C
+2026,Aurelia Wearables 04,Electronics,Wearables,1013,0.202,1.64,B
+2027,Vertex Wearables 05,Electronics,Wearables,4145,0.556,3.87,B
+2028,Luma Wearables 06,Electronics,Wearables,1833,0.348,3.68,B
+2029,Nexora Wearables 07,Electronics,Wearables,1169,0.25,1.87,C
+2030,HomeCraft Wearables 08,Electronics,Wearables,2288,0.475,3.15,B
+2031,Stride Wearables 09,Electronics,Wearables,1271,0.534,2.28,A
+2032,Nova Wearables 10,Electronics,Wearables,1197,0.608,3.88,B
+2033,UrbanPeak Wearables 11,Electronics,Wearables,1137,0.41,2.13,A
+2034,Aurelia Accessories 01,Electronics,Accessories,1169,0.414,3.53,A
+2035,Vertex Accessories 02,Electronics,Accessories,809,0.51,3.47,A
+2036,Luma Accessories 03,Electronics,Accessories,2792,0.477,1.68,A
+2037,Nexora Accessories 04,Electronics,Accessories,1819,0.619,1.85,B
+2038,HomeCraft Accessories 05,Electronics,Accessories,5610,0.383,2.14,C
+2039,Stride Accessories 06,Electronics,Accessories,939,0.614,3.44,C
+2040,Nova Accessories 07,Electronics,Accessories,853,0.553,2.79,B
+2041,UrbanPeak Accessories 08,Electronics,Accessories,2434,0.364,1.23,B
+2042,Aurelia Accessories 09,Electronics,Accessories,2031,0.608,2.27,B
+2043,Vertex Accessories 10,Electronics,Accessories,8003,0.533,2.25,B
+2044,Luma Accessories 11,Electronics,Accessories,1005,0.285,2.62,C
+2045,Nexora Kitchen 01,Home,Kitchen,2002,0.462,2.63,C
+2046,HomeCraft Kitchen 02,Home,Kitchen,1776,0.318,1.03,B
+2047,Stride Kitchen 03,Home,Kitchen,2011,0.278,3.24,B
+2048,Nova Kitchen 04,Home,Kitchen,1545,0.508,2.41,B
+2049,UrbanPeak Kitchen 05,Home,Kitchen,939,0.285,3.07,A
+2050,Aurelia Kitchen 06,Home,Kitchen,874,0.338,1.27,C
+2051,Vertex Kitchen 07,Home,Kitchen,2914,0.214,1.47,C
+2052,Luma Kitchen 08,Home,Kitchen,2157,0.289,2.76,A
+2053,Nexora Kitchen 09,Home,Kitchen,3217,0.52,3.35,C
+2054,HomeCraft Kitchen 10,Home,Kitchen,2178,0.498,3.84,B
+2055,Stride Kitchen 11,Home,Kitchen,1375,0.583,1.73,C
+2056,Nova Home Decor 01,Home,Home Decor,2772,0.575,2.4,B
+2057,UrbanPeak Home Decor 02,Home,Home Decor,3187,0.348,1.89,C
+2058,Aurelia Home Decor 03,Home,Home Decor,954,0.48,1.07,B
+2059,Vertex Home Decor 04,Home,Home Decor,3989,0.211,3.41,B
+2060,Luma Home Decor 05,Home,Home Decor,4846,0.271,3.9,C
+2061,Nexora Home Decor 06,Home,Home Decor,1918,0.313,2.34,A
+2062,HomeCraft Home Decor 07,Home,Home Decor,808,0.588,3.94,B
+2063,Stride Home Decor 08,Home,Home Decor,3528,0.383,1.54,B
+2064,Nova Home Decor 09,Home,Home Decor,1583,0.239,2.75,B
+2065,UrbanPeak Home Decor 10,Home,Home Decor,4131,0.62,2.49,A
+2066,Aurelia Home Decor 11,Home,Home Decor,3476,0.581,2.72,B
+2067,Vertex Storage 01,Home,Storage,525,0.221,3.87,C
+2068,Luma Storage 02,Home,Storage,2943,0.323,3.78,B
+2069,Nexora Storage 03,Home,Storage,1903,0.608,3.72,A
+2070,HomeCraft Storage 04,Home,Storage,1556,0.313,1.63,A
+2071,Stride Storage 05,Home,Storage,2438,0.413,3.05,A
+2072,Nova Storage 06,Home,Storage,942,0.48,3.17,C
+2073,UrbanPeak Storage 07,Home,Storage,3004,0.599,2.67,B
+2074,Aurelia Storage 08,Home,Storage,887,0.292,3.53,B
+2075,Vertex Storage 09,Home,Storage,1628,0.336,2.16,C
+2076,Luma Storage 10,Home,Storage,5721,0.387,1.59,C
+2077,Nexora Storage 11,Home,Storage,1183,0.454,2.91,B
+2078,HomeCraft Appliances 01,Home,Appliances,2008,0.268,2.17,B
+2079,Stride Appliances 02,Home,Appliances,788,0.258,2.64,B
+2080,Nova Appliances 03,Home,Appliances,8772,0.516,1.27,A
+2081,UrbanPeak Appliances 04,Home,Appliances,1261,0.289,3.7,C
+2082,Aurelia Appliances 05,Home,Appliances,1181,0.59,3.65,B
+2083,Vertex Appliances 06,Home,Appliances,6886,0.454,2.36,C
+2084,Luma Appliances 07,Home,Appliances,1263,0.46,3.05,B
+2085,Nexora Appliances 08,Home,Appliances,1048,0.366,3.9,B
+2086,HomeCraft Appliances 09,Home,Appliances,292,0.596,1.35,A
+2087,Stride Appliances 10,Home,Appliances,4209,0.604,3.81,A
+2088,Nova Appliances 11,Home,Appliances,965,0.258,2.8,B
+2089,UrbanPeak Menswear 01,Fashion,Menswear,647,0.55,1.22,B
+2090,Aurelia Menswear 02,Fashion,Menswear,2545,0.303,1.05,C
+2091,Vertex Menswear 03,Fashion,Menswear,1688,0.246,2.28,B
+2092,Luma Menswear 04,Fashion,Menswear,2608,0.55,3.0,B
+2093,Nexora Menswear 05,Fashion,Menswear,2930,0.284,1.39,B
+2094,HomeCraft Menswear 06,Fashion,Menswear,1458,0.197,2.0,C
+2095,Stride Menswear 07,Fashion,Menswear,2899,0.404,2.84,A
+2096,Nova Menswear 08,Fashion,Menswear,2380,0.534,1.96,B
+2097,UrbanPeak Menswear 09,Fashion,Menswear,8050,0.583,3.66,A
+2098,Aurelia Menswear 10,Fashion,Menswear,2130,0.427,1.6,B
+2099,Vertex Menswear 11,Fashion,Menswear,3729,0.222,2.58,B
+2100,Luma Womenswear 01,Fashion,Womenswear,624,0.208,3.77,B
+2101,Nexora Womenswear 02,Fashion,Womenswear,799,0.194,2.23,B
+2102,HomeCraft Womenswear 03,Fashion,Womenswear,4152,0.349,3.74,B
+2103,Stride Womenswear 04,Fashion,Womenswear,1159,0.564,2.05,B
+2104,Nova Womenswear 05,Fashion,Womenswear,3332,0.327,3.92,B
+2105,UrbanPeak Womenswear 06,Fashion,Womenswear,7353,0.434,2.42,B
+2106,Aurelia Womenswear 07,Fashion,Womenswear,2936,0.539,3.0,A
+2107,Vertex Womenswear 08,Fashion,Womenswear,2124,0.417,1.84,A
+2108,Luma Womenswear 09,Fashion,Womenswear,1703,0.533,3.04,A
+2109,Nexora Womenswear 10,Fashion,Womenswear,940,0.338,1.13,B
+2110,HomeCraft Womenswear 11,Fashion,Womenswear,625,0.471,2.72,A
+2111,Stride Footwear 01,Fashion,Footwear,1991,0.29,3.09,A
+2112,Nova Footwear 02,Fashion,Footwear,1166,0.469,3.36,C
+2113,UrbanPeak Footwear 03,Fashion,Footwear,2868,0.339,2.43,B
+2114,Aurelia Footwear 04,Fashion,Footwear,1327,0.238,2.15,C
+2115,Vertex Footwear 05,Fashion,Footwear,1954,0.598,3.18,B
+2116,Luma Footwear 06,Fashion,Footwear,1565,0.537,2.55,B
+2117,Nexora Footwear 07,Fashion,Footwear,1041,0.382,1.17,A
+2118,HomeCraft Footwear 08,Fashion,Footwear,6226,0.394,3.51,C
+2119,Stride Footwear 09,Fashion,Footwear,1003,0.227,1.93,C
+2120,Nova Footwear 10,Fashion,Footwear,3452,0.564,1.02,A
+2121,UrbanPeak Footwear 11,Fashion,Footwear,2145,0.319,3.33,A
+2122,Aurelia Accessories 01,Fashion,Accessories,3511,0.19,1.81,A
+2123,Vertex Accessories 02,Fashion,Accessories,1098,0.618,2.79,B
+2124,Luma Accessories 03,Fashion,Accessories,2602,0.227,3.32,A
+2125,Nexora Accessories 04,Fashion,Accessories,1516,0.328,3.19,C
+2126,HomeCraft Accessories 05,Fashion,Accessories,1914,0.281,1.88,B
+2127,Stride Accessories 06,Fashion,Accessories,2962,0.286,1.78,C
+2128,Nova Accessories 07,Fashion,Accessories,1404,0.381,3.01,C
+2129,UrbanPeak Accessories 08,Fashion,Accessories,1275,0.612,1.47,A
+2130,Aurelia Accessories 09,Fashion,Accessories,5323,0.381,1.67,B
+2131,Vertex Accessories 10,Fashion,Accessories,1527,0.202,2.62,B
+2132,Luma Accessories 11,Fashion,Accessories,630,0.535,3.59,A
+2133,Nexora Skincare 01,Beauty,Skincare,1744,0.25,1.16,C
+2134,HomeCraft Skincare 02,Beauty,Skincare,1144,0.538,2.74,C
+2135,Stride Skincare 03,Beauty,Skincare,3061,0.409,2.35,B
+2136,Nova Skincare 04,Beauty,Skincare,942,0.455,1.15,B
+2137,UrbanPeak Skincare 05,Beauty,Skincare,1789,0.532,3.11,B
+2138,Aurelia Skincare 06,Beauty,Skincare,1373,0.274,1.71,C
+2139,Vertex Skincare 07,Beauty,Skincare,3865,0.451,2.38,C
+2140,Luma Skincare 08,Beauty,Skincare,2611,0.362,1.86,A
+2141,Nexora Skincare 09,Beauty,Skincare,2149,0.549,3.85,C
+2142,HomeCraft Skincare 10,Beauty,Skincare,1451,0.331,2.48,B
+2143,Stride Skincare 11,Beauty,Skincare,2721,0.527,3.33,A
+2144,Nova Haircare 01,Beauty,Haircare,1038,0.384,2.09,B
+2145,UrbanPeak Haircare 02,Beauty,Haircare,2143,0.444,1.15,B
+2146,Aurelia Haircare 03,Beauty,Haircare,6066,0.278,3.82,B
+2147,Vertex Haircare 04,Beauty,Haircare,5597,0.186,3.55,B
+2148,Luma Haircare 05,Beauty,Haircare,783,0.493,2.23,A
+2149,Nexora Haircare 06,Beauty,Haircare,1944,0.6,3.42,A
+2150,HomeCraft Haircare 07,Beauty,Haircare,958,0.51,3.81,B
+2151,Stride Haircare 08,Beauty,Haircare,881,0.543,2.43,B
+2152,Nova Haircare 09,Beauty,Haircare,2000,0.382,3.0,B
+2153,UrbanPeak Haircare 10,Beauty,Haircare,1414,0.477,2.0,B
+2154,Aurelia Haircare 11,Beauty,Haircare,5671,0.547,1.16,B
+2155,Vertex Makeup 01,Beauty,Makeup,5431,0.29,2.39,C
+2156,Luma Makeup 02,Beauty,Makeup,507,0.254,3.15,B
+2157,Nexora Makeup 03,Beauty,Makeup,1086,0.538,1.19,B
+2158,HomeCraft Makeup 04,Beauty,Makeup,1929,0.599,2.63,B
+2159,Stride Makeup 05,Beauty,Makeup,2441,0.256,2.47,B
+2160,Nova Makeup 06,Beauty,Makeup,3051,0.524,2.7,C
+2161,UrbanPeak Makeup 07,Beauty,Makeup,629,0.27,2.9,B
+2162,Aurelia Makeup 08,Beauty,Makeup,6328,0.297,2.2,B
+2163,Vertex Makeup 09,Beauty,Makeup,3454,0.218,1.18,C
+2164,Luma Makeup 10,Beauty,Makeup,2329,0.413,2.03,B
+2165,Nexora Makeup 11,Beauty,Makeup,1075,0.353,2.49,B
+2166,HomeCraft Personal Care 01,Beauty,Personal Care,2576,0.536,1.94,C
+2167,Stride Personal Care 02,Beauty,Personal Care,2778,0.383,2.13,C
+2168,Nova Personal Care 03,Beauty,Personal Care,1101,0.185,3.17,A
+2169,UrbanPeak Personal Care 04,Beauty,Personal Care,2980,0.497,3.81,A
+2170,Aurelia Personal Care 05,Beauty,Personal Care,7374,0.287,2.4,B
+2171,Vertex Personal Care 06,Beauty,Personal Care,3823,0.466,2.11,B
+2172,Luma Personal Care 07,Beauty,Personal Care,3717,0.424,1.3,B
+2173,Nexora Personal Care 08,Beauty,Personal Care,5251,0.257,1.63,C
+2174,HomeCraft Personal Care 09,Beauty,Personal Care,382,0.568,1.43,B
+2175,Stride Personal Care 10,Beauty,Personal Care,5787,0.329,1.6,C
+2176,Nova Personal Care 11,Beauty,Personal Care,3914,0.453,3.42,B
+2177,UrbanPeak Fitness 01,Sports,Fitness,1387,0.282,2.69,A
+2178,Aurelia Fitness 02,Sports,Fitness,3415,0.297,3.79,C
+2179,Vertex Fitness 03,Sports,Fitness,2240,0.314,3.66,A
+2180,Luma Fitness 04,Sports,Fitness,1931,0.465,1.79,B
+2181,Nexora Fitness 05,Sports,Fitness,1797,0.47,3.05,B
+2182,HomeCraft Fitness 06,Sports,Fitness,1330,0.248,2.86,C
+2183,Stride Fitness 07,Sports,Fitness,1910,0.414,1.11,A
+2184,Nova Fitness 08,Sports,Fitness,969,0.6,3.01,B
+2185,UrbanPeak Fitness 09,Sports,Fitness,938,0.372,2.47,A
+2186,Aurelia Fitness 10,Sports,Fitness,1276,0.468,3.87,C
+2187,Vertex Fitness 11,Sports,Fitness,1663,0.308,2.65,A
+2188,Luma Outdoor 01,Sports,Outdoor,717,0.267,3.06,B
+2189,Nexora Outdoor 02,Sports,Outdoor,6420,0.573,1.73,B
+2190,HomeCraft Outdoor 03,Sports,Outdoor,2833,0.371,3.76,C
+2191,Stride Outdoor 04,Sports,Outdoor,7148,0.408,2.97,B
+2192,Nova Outdoor 05,Sports,Outdoor,5723,0.412,2.25,B
+2193,UrbanPeak Outdoor 06,Sports,Outdoor,2396,0.226,2.17,C
+2194,Aurelia Outdoor 07,Sports,Outdoor,3959,0.189,1.74,B
+2195,Vertex Outdoor 08,Sports,Outdoor,1592,0.399,1.24,B
+2196,Luma Outdoor 09,Sports,Outdoor,1035,0.533,2.46,A
+2197,Nexora Outdoor 10,Sports,Outdoor,1716,0.51,2.44,A
+2198,HomeCraft Outdoor 11,Sports,Outdoor,1159,0.571,2.68,C
+2199,Stride Sportswear 01,Sports,Sportswear,1241,0.281,1.24,B
+2200,Nova Sportswear 02,Sports,Sportswear,295,0.585,1.42,B
+2201,UrbanPeak Sportswear 03,Sports,Sportswear,4756,0.351,1.86,B
+2202,Aurelia Sportswear 04,Sports,Sportswear,2285,0.461,2.6,B
+2203,Vertex Sportswear 05,Sports,Sportswear,989,0.242,2.84,B
+2204,Luma Sportswear 06,Sports,Sportswear,1848,0.599,1.49,B
+2205,Nexora Sportswear 07,Sports,Sportswear,3311,0.18,1.31,B
+2206,HomeCraft Sportswear 08,Sports,Sportswear,3174,0.219,3.25,C
+2207,Stride Sportswear 09,Sports,Sportswear,1139,0.463,2.99,B
+2208,Nova Sportswear 10,Sports,Sportswear,2511,0.575,1.38,A
+2209,UrbanPeak Sportswear 11,Sports,Sportswear,4635,0.378,1.77,A
+2210,Aurelia Equipment 01,Sports,Equipment,908,0.227,2.59,C
+2211,Vertex Equipment 02,Sports,Equipment,2137,0.478,3.81,B
+2212,Luma Equipment 03,Sports,Equipment,1667,0.278,1.38,A
+2213,Nexora Equipment 04,Sports,Equipment,877,0.458,2.72,B
+2214,HomeCraft Equipment 05,Sports,Equipment,1799,0.395,2.12,C
+2215,Stride Equipment 06,Sports,Equipment,625,0.522,1.33,B
+2216,Nova Equipment 07,Sports,Equipment,1361,0.58,3.17,C
+2217,UrbanPeak Equipment 08,Sports,Equipment,843,0.594,2.21,B
+2218,Aurelia Equipment 09,Sports,Equipment,1052,0.28,1.98,B
+2219,Vertex Equipment 10,Sports,Equipment,726,0.24,3.68,B
+2220,Luma Equipment 11,Sports,Equipment,1130,0.441,3.34,C
